@@ -74,7 +74,7 @@ public class Main {
         System.out.println("Вес Tony " + TonyWeight + " кг");
         System.out.println("Вес Rodrigo " + RodrigoWeight + " кг");
         var totalWeight = TonyWeight + RodrigoWeight;
-        System.out.println("Общий вес двух бойцов " + totalWeight + " кг");
+        System.out.println("Общий вес бойцов " + totalWeight + " кг");
         var weightDifference = RodrigoWeight - TonyWeight;
         System.out.println("Rodrigo на " + weightDifference + " кг тяжелее Tony");
 
